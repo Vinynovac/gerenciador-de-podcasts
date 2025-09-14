@@ -1,0 +1,22 @@
+[
+        {
+            "podcastName": "flow",
+            "episode": "CBUM",
+            "videoId": "pQSuQmUfs30",
+            "categories": ["saúde", "esporte", "bodybuilder"]
+        },
+        {
+            "podcastName":"flow",
+            "episode": "RUBENS BARRICHELLO",
+            "videoId": "pQSuQmUfs30",
+            "categories": ["esporte", "corrida", "piloto"] 
+        },
+
+           {
+            "podcastName":"venus",
+            "episode": "Menina Veneno",
+            "videoId": "pQSuQmUfs30",
+            "categories": ["Minas Gerais", "Pão de Queijo", "Humor"] 
+        }
+
+    ]
