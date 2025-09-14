@@ -43,7 +43,7 @@ Uma API simples, modular e eficiente para gerenciar podcasts, construída com **
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/gerenciador-podcasts.git
+git clone https://github.com/Vinynovac/gerenciador-de-podcasts
 cd gerenciador-podcasts
 
 Instale as dependências
